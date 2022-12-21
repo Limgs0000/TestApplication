@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("test","test")
         Log.d("limgs1", "limgs1")
+        Log.d("test~~~", "test@@@@")
     }
 }
